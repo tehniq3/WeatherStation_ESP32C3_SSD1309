@@ -1,2 +1,8 @@
 # WeatherStation_ESP32C3_SSD1309
 based on https://github.com/tehniq3/WeatherStation_ESP32C3_ST7920/ and https://github.com/tehniq3/WeatherStation3_ESP32C3_ST7920
+
+my article: https://nicuflorica.blogspot.com/2026/08/statie-meteo-cu-simboluri-grafice-esp32_01259852571.html
+
+![real](https://blogger.googleusercontent.com/img/a/AVvXsEiLQT4221rYNMkH2bZcCcgqqjj9cIYKQnGqrDQ_WMbLBKk6zsKy2AZmc6MKlA-j9Xqf9WHiQOCWP8iqsDQf2AHiBCqRDJUDC6B4VyxsXCu78QYyPUwc2x7yBTi5Ad7RlcEiTJds8VJH8o2gk8rCkVkJ-9US2NLviJ1Altj3t3HMUhouqpqyvBvqWQjGgKUp=w200-h93)
+
+![real2](https://blogger.googleusercontent.com/img/a/AVvXsEh78KUzmpbNLlQ18k6OkFRstmoD-09UJujqVL0p_T20r9GHsC2mBLqhFjlcH8VRS-hF9IUcXTo0gjrfTSe-rg1gv9f6WbWT74fHLlO0n5MSqnWz-Cn2kVnkLxVfTgNzTLOpjgalZKFGJbiFc9PIhmz-qcO6XB6QnlcZS4ZHg6lkjgtS42vMqtw_JhsLsi4z=w200-h93)
